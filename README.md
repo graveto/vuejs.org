@@ -79,6 +79,6 @@ Překlad do perštiny je udržován by VueJS-fa.
 
 Pokud chcete překládat sami, můžete vytvořit oddělené úložiště. Potom vytvořte "work-in-progress" oznámení, že pracujete na překladu a jděte do toho.
 
-Pokud chcete pracovat v týmu, Translation Gang by mohl být pro Vás. Dejte nám nějak znát, že jste připraveni se připojit do této mezinárodní překladatelské komunity. Můžete se spojit s [Grigoriy Beziuk](https://gbezyuk.github.io) nebo s kýmkoliv z [the team](https://github.com/orgs/translation-gang/people).
+Pokud chcete pracovat v týmu, Translation Gang by mohl být pro Vás. Dejte nám nějak znát, že jste připraveni se připojit do této mezinárodní překladatelské komunity. Můžete se spojit s [Grigoriyem Beziukem](https://gbezyuk.github.io) nebo s kýmkoliv z [týmu](https://github.com/orgs/translation-gang/people).
 
 A předem Vám děkujeme ;)
