@@ -77,8 +77,8 @@ Překlad do perštiny je udržován by VueJS-fa.
 
 ### Chcete pomoci s překládáním?
 
-If you feel okay with translating sorta alone, you can fork the repo, create a "work-in-progress" issue to inform others that you're doing the translation, and go for it.
+Pokud chcete překládat sami, můžete vytvořit oddělené úložiště. Potom vytvořte "work-in-progress" oznámení, že pracujete na překladu a jděte do toho.
 
-If you are more of a team player, Translation Gang might be for you. Let us know somehow that you're ready to join this international open-source translators community. Feel free to contact [Grigoriy Beziuk](https://gbezyuk.github.io) or anybody else from [the team](https://github.com/orgs/translation-gang/people).
+Pokud chcete pracovat v týmu, Translation Gang by mohl být pro Vás. Dejte nám nějak znát, že jste připraveni se připojit do této mezinárodní překladatelské komunity. Můžete se spojit s [Grigoriy Beziuk](https://gbezyuk.github.io) nebo s kýmkoliv z [the team](https://github.com/orgs/translation-gang/people).
 
 A předem Vám děkujeme ;)
